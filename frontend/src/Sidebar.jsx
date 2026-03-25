@@ -68,7 +68,6 @@ export default function Sidebar() {
         </div>
         <div className="flex flex-col">
           <span className="font-bold text-xl text-gray-900 leading-tight">FarmPrice</span>
-          <span className="text-sm text-gray-500 font-medium">Smart Farming</span>
         </div>
       </div>
 
@@ -128,9 +127,7 @@ export default function Sidebar() {
         })}
       </nav>
       
-      <div className="mt-auto px-4 py-4">
-          <p className="text-xs text-center text-gray-400 font-medium m-0">{t('sidebar.footer')}</p>
-      </div>
+      {/* Footer Removed */}
 
     </div>
   );

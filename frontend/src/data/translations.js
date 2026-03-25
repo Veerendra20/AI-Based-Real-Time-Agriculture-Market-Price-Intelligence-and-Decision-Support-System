@@ -13,7 +13,7 @@ export const translations = {
       loss_analysis_sub: "Calculate your losses",
       support_info: "Support & Info",
       support_info_sub: "Schemes & guidance",
-      footer: "Built for Vadodara Farmers"
+
     },
     dashboard: {
       greeting: "Good Morning, Farmer!",
@@ -79,7 +79,7 @@ export const translations = {
       loss_analysis_sub: "તમારા નુકસાનની ગણતરી કરો",
       support_info: "સપોર્ટ અને માહિતી",
       support_info_sub: "યોજનાઓ અને માર્ગદર્શન",
-      footer: "વડોદરાના ખેડૂતો માટે બનાવેલ"
+
     },
     dashboard: {
       greeting: "શુભ સવાર, ખેડૂત મિત્ર!",
@@ -144,7 +144,7 @@ export const translations = {
       loss_analysis_sub: "अपने नुकसान की गणना करें",
       support_info: "सहायता और जानकारी",
       support_info_sub: "योजनाएं और मार्गदर्शन",
-      footer: "वडोदरा के किसानों के लिए निर्मित"
+
     },
     dashboard: {
       greeting: "शुभ प्रभात, किसान भाई!",

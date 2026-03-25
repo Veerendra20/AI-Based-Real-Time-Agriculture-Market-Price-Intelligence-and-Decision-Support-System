@@ -101,9 +101,97 @@ translations = {
         "recommended_badge": "Recommended",
         "price_label": "Price",
         "brand_label": "Brand",
-        "cost_summary_title": "Estimated Cost Summary (अनुमानित लागत)",
+        "cost_summary_title": "Estimated Cost Summary (अनुमानિત लागत)",
         "total_cost_label": "Total for recommended fertilizers",
         "per_acre_approx": "per acre approx.",
+        "period_1m": "1 Month",
+        "period_3m": "3 Months",
+        "period_6m": "6 Months",
+        "hours_24": "24 Hours",
+        "bullish": "Bullish",
+        "bearish": "Bearish",
+        "resource_portal_title": "Resource Portal",
+        "resource_portal_sub": "Click any card below to view full scheme details, eligibility, and how to apply.",
+        "open_btn": "Open ↗",
+        "call_btn": "Tap to Call — Free",
+        "dial_instantly": "Click to dial instantly",
+        "official_portal": "Official Portal",
+        "portal_note": "Opens official government website",
+        "elig_all": "All small & marginal farmers with cultivable land",
+        "elig_aadhaar": "Aadhaar linked bank account required",
+        "step_visit": "Visit portal",
+        "step_reg": "Register with Aadhaar & bank details",
+        "doc_aadhaar": "Aadhaar Card",
+        "doc_passbook": "Bank passbook",
+        "doc_land": "Land records",
+        "elig_pmfby_1": "All farmers growing notified crops",
+        "elig_pmfby_2": "Both loanee and non-loanee farmers",
+        "elig_kcc_1": "All farmers (individual / joint)",
+        "elig_kcc_2": "Tenant farmers & sharecroppers",
+        "elig_gujarat": "Gujarat registered farmers only",
+        "elig_nabard": "Farmers through banks",
+        "step_dial": "Dial 1800-180-1551",
+        "step_lang": "Select language",
+        "step_grade": "Quality grading",
+        "step_auction": "Electronic auction",
+        "step_sample": "Submit soil sample",
+        "step_card": "Get card",
+        "faq_title": "Frequently Asked Questions",
+        "back_btn": "← Back",
+        "key_benefit": "Key Benefit",
+        "benef_pmkisan": "₹6,000 per year direct bank transfer",
+        "benef_pmfby": "Full insurance sum at low premium",
+        "benef_kcc": "Credit limit up to ₹3 lakh at 4-7% interest",
+        "benef_helpline": "Free expert agricultural advice 24/7",
+        "pmkisan_title": "PM-Kisan (Samman Nidhi)",
+        "pmfby_title": "Fasal Bima (PMFBY)",
+        "kcc_title": "Kisan Credit Card (KCC)",
+        "helpline_title": "24/7 Kisan Call Centre",
+        "pmkisan_desc": "Check your ₹6,000 yearly income support status directly on the official portal.",
+        "pmfby_desc": "Comprehensive crop insurance covering losses from natural calamities & pests.",
+        "kcc_desc": "Apply for a high-limit revolving credit card for seeds, fertilizers & equipment.",
+        "helpline_desc": "Toll-free helpline — agri-experts available in 22 languages.",
+        "step_label": "Step",
+        "loss_summary": "Selling at ₹{u_price:,.0f}/q implies a loss of ₹{unit_diff:,.0f} per quintal vs the market average.",
+        "profit_summary": "Great! You are selling above the market price 🎉. You've earned an extra ₹{unit_diff:,.0f} per quintal.",
+        "legal_alert": "Legal Alert: Your selling price (₹{u_price:,.0f}) is below the Government MSP (₹{msp_val:,.0f}). This is a significant loss situation.",
+        "urea_inst": "Apply 2-3 times during growth",
+        "dap_inst": "Apply at sowing time",
+        "mop_inst": "Apply before flowering",
+        "vermi_inst": "Mix in soil before sowing",
+        "faq_1_q": "How do I register my mandi on the eNAM portal?",
+        "faq_1_a": "Visit enam.gov.in, click 'Register'. Your mandi committee must apply through the State Agriculture Dept.",
+        "faq_2_q": "When will the next PM-Kisan installment arrive?",
+        "faq_2_a": "Installments are usually released in Apr-Jul, Aug-Nov, and Dec-Mar. Check your status on the PM-Kisan portal.",
+        "faq_3_q": "How do I claim Fasal Bima if my crop is damaged?",
+        "faq_3_a": "Report crop damage within 72 hours on the PMFBY app or call 1800-200-7710.",
+        "faq_4_q": "Can I apply for KCC without land ownership?",
+        "faq_4_a": "Yes! Tenant farmers and sharecroppers are also eligible for KCC with a joint liability group.",
+        "enam_title": "eNAM — National Agri Market",
+        "enam_desc": "Sell your produce on India's unified electronic mandi network across 1,000+ markets.",
+        "soil_title": "Soil Health Card Scheme",
+        "soil_desc": "Get a FREE soil test and personalized fertilizer recommendations every 2 years.",
+        "gujarat_title": "Gujarat Agriculture Dept.",
+        "gujarat_desc": "Official state schemes, subsidies, and farming advisories specific to Gujarat farmers.",
+        "nabard_title": "NABARD — Rural Finance",
+        "nabard_desc": "Access farm loans, rural infrastructure fund, and cooperative credit support schemes.",
+        "benef_enam": "Get transparent, competitive prices for your produce across state borders.",
+        "benef_soil": "Know your soil's exact nutrient needs — save money on fertilizers.",
+        "benef_gujarat": "Access Gujarat-specific subsidies: drip irrigation, seeds, tractors, etc.",
+        "benef_nabard": "Refinancing to banks for farm credit. Interest subvention schemes.",
+        "avg_mkt_rate": "Current average market rate",
+        "input_price_label": "Input your actual selling price (₹/q)",
+        "per_bag": "per 50kg bag",
+        "urea_label": "Urea",
+        "dap_label": "DAP (Di-ammonium Phosphate)",
+        "vermi_label": "Vermicompost",
+        "mop_label": "MOP (Potash)",
+        "who_is_eligible": "Who is Eligible",
+        "how_to_apply": "How to Apply",
+        "docs_needed": "Documents Needed",
+        "best_price_at": "Best Price Available At",
+        "compare_crops_sub": "Compare prices across different mandis to find the best deal",
+        "select_crop_compare": "Select Crop to Compare",
     },
     "gu": {
         "title": "ફાર્મપ્રાઈસ | પ્રીમિયમ ડેશબોર્ડ",
@@ -200,6 +288,94 @@ translations = {
         "cost_summary_title": "અંદાજિત ખર્ચ સારાંશ (અનુમાનિત લાગત)",
         "total_cost_label": "ભલામણ કરેલ ખાતર માટે કુલ",
         "per_acre_approx": "એકર દીઠ અંદાજે.",
+        "period_1m": "1 મહિનો",
+        "period_3m": "3 મહિના",
+        "period_6m": "6 મહિના",
+        "hours_24": "24 કલાક",
+        "bullish": "તેજી",
+        "bearish": "મંદી",
+        "resource_portal_title": "રિસોર્સ પોર્ટલ",
+        "resource_portal_sub": "યોજનાની સંપૂર્ણ વિગતો, પાત્રતા અને કેવી રીતે અરજી કરવી તે જોવા માટે નીચેના કોઈપણ કાર્ડ પર ક્લિક કરો.",
+        "open_btn": "ખોલો ↗",
+        "call_btn": "કોલ કરવા માટે ક્લિક કરો — મફત",
+        "dial_instantly": "તરત જ ડાયલ કરવા માટે ક્લિક કરો",
+        "official_portal": "સત્તાવાર પોર્ટલ",
+        "portal_note": "સત્તાવાર સરકારી વેબસાઇટ ખોલે છે",
+        "elig_all": "વાવેતરલાયક જમીન ધરાવતા તમામ નાના અને સીમાંત ખેડૂતો",
+        "elig_aadhaar": "આધાર લિંક્ડ બેંક એકાઉન્ટ જરૂરી",
+        "step_visit": "પોર્ટલની મુલાકાત લો",
+        "step_reg": "આધાર અને બેંક વિગતો સાથે નોંધણી કરો",
+        "doc_aadhaar": "આધાર કાર્ડ",
+        "doc_passbook": "બેંક પાસબુક",
+        "doc_land": "જમીનના દસ્તાવેજો (૭/૧૨)",
+        "elig_pmfby_1": "સૂચિત પાક ઉગાડતા તમામ ખેડૂતો",
+        "elig_pmfby_2": "ઋણી અને બિન-ઋણી બંને ખેડૂતો",
+        "elig_kcc_1": "તમામ ખેડૂતો (વ્યક્તિગત / સંયુક્ત)",
+        "elig_kcc_2": "ભાગીદારો અને મૌખિક પટેદારો",
+        "elig_gujarat": "ફક્ત ગુજરાતના નોંધાયેલા ખેડૂતો",
+        "elig_nabard": "બેંકો દ્વારા ખેડૂતો",
+        "step_dial": "1800-180-1551 ડાયલ કરો",
+        "step_lang": "ભાષા પસંદ કરો",
+        "step_grade": "ગુણવત્તા ચકાસણી",
+        "step_auction": "ઇલેક્ટ્રોનિક હરાજી",
+        "step_sample": "જમીનનો નમૂનો સબમિટ કરો",
+        "step_card": "કાર્ડ મેળવો",
+        "faq_title": "વારંવાર પૂછાતા પ્રશ્નો",
+        "back_btn": "← પાછા",
+        "key_benefit": "મુખ્ય લાભ",
+        "benef_pmkisan": "વર્ષે ₹6,000 સીધા બેંક ટ્રાન્સફર",
+        "benef_pmfby": "ઓછા પ્રીમિયમે સંપૂર્ણ વીમો",
+        "benef_kcc": "4-7% વ્યાજે ₹3 લાખ સુધીની ક્રેડિટ",
+        "benef_helpline": "24/7 મફત કૃષિ નિષ્ણાતની સલાહ",
+        "pmkisan_title": "પીએમ-કિસાન (સન્માન નિધિ)",
+        "pmfby_title": "ફસલ વીમો (PMFBY)",
+        "kcc_title": "કિસાન ક્રેડિટ કાર્ડ (KCC)",
+        "helpline_title": "24/7 કિસાન કોલ સેન્ટર",
+        "pmkisan_desc": "સત્તાવાર પોર્ટલ પર તમારી વાર્ષિક ₹6,000 આવક સહાયની સ્થિતિ તપાસો.",
+        "pmfby_desc": "કુદરતી આફતો અને જીવાતોથી થતા નુકસાનને આવરી લેતો વ્યાપક પાક વીમો.",
+        "kcc_desc": "બિયારણ, ખાતર અને સાધનો માટે ઉચ્ચ મર્યાદાવાળા ક્રેડિટ કાર્ડ માટે અરજી કરો.",
+        "helpline_desc": "ટોલ-ફ્રી હેલ્પલાઇન — 22 ભાષાઓમાં કૃષિ નિષ્ણાતો ઉપલબ્ધ.",
+        "step_label": "પગલું",
+        "loss_summary": "₹{u_price:,.0f}/ક્વિન્ટલ પર વેચાણ એટલે કે બજારની સરેરાશ સામે ₹{unit_diff:,.0f} પ્રતિ ક્વિન્ટલનું નુકસાન.",
+        "profit_summary": "ઉત્તમ! તમે બજાર કિંમત કરતા વધારે ભાવે વેચો છો 🎉. તમે પ્રતિ ક્વિન્ટલ વધારાના ₹{unit_diff:,.0f} મેળવ્યા છે.",
+        "legal_alert": "કાનૂની ચેતવણી: તમારો વેચાણ ભાવ (₹{u_price:,.0f}) સરકારી MSP (₹{msp_val:,.0f}) કરતા ઓછો છે. આ એક ગંભીર નુકસાનની સ્થિતિ છે.",
+        "urea_inst": "વૃદ્ધિ દરમિયાન 2-3 વાર લાગુ કરો",
+        "dap_inst": "વાવણી સમયે લાગુ કરો",
+        "mop_inst": "ફૂલો આવે તે પહેલાં લાગુ કરો",
+        "vermi_inst": "વાવણી પહેલા માટીમાં ભેળવો",
+        "faq_1_q": "હું ઈ-નામ પોર્ટલ પર મારી મંડી કેવી રીતે રજીસ્ટર કરી શકું?",
+        "faq_1_a": "enam.gov.in પર જાઓ, 'રજીસ્ટર' પર ક્લિક કરો. તમારી મંડી સમિતિએ રાજ્ય કૃષિ વિભાગ દ્વારા અરજી કરવી આવશ્યક છે.",
+        "faq_2_q": "પીએમ-કિસાનનો હવે પછીનો હપ્તો ક્યારે આવશે?",
+        "faq_2_a": "હપ્તાઓ સામાન્ય રીતે એપ્રિલ-જુલાઈ, ઓગસ્ટ-નવેમ્બર અને ડિસેમ્બર-માર્ચમાં જાહેર કરવામાં આવે છે. પીએમ-કિસાન પોર્ટલ પર તમારી સ્થિતિ તપાસો.",
+        "faq_3_q": "ફસલ વીમાનો દાવો કેવી રીતે કરવો જો મારો પાક નુકસાન પામે?",
+        "faq_3_a": "72 કલાકની અંદર PMFBY એપ પર પાકના નુકસાનની જાણ કરો અથવા 1800-200-7710 પર કોલ કરો.",
+        "faq_4_q": "શું હું જમીન માલિકી વગર KCC માટે અરજી કરી શકું?",
+        "faq_4_a": "હા! ભાગીદારો અને મૌખિક પટેદારો પણ સંયુક્ત જવાબદારી જૂથ સાથે KCC માટે પાત્ર છે.",
+        "avg_mkt_rate": "વર્તમાન સરેરાશ બજાર ભાવ",
+        "input_price_label": "તમારા વાસ્તવિક વેચાણ ભાવ દાખલ કરો (₹/q)",
+        "per_bag": "50 કિલોગ્રામ દીઠ બેગ",
+        "urea_label": "યૂરિયા",
+        "dap_label": "ડીએપી (ડી-એમોનિયમ ફોસ્ફેટ)",
+        "vermi_label": "વર્મિકમ્પોસ્ટ",
+        "mop_label": "પોટાશ (MOP)",
+        "who_is_eligible": "કોણ પાત્ર છે",
+        "how_to_apply": "કેવી રીતે અરજી કરવી",
+        "docs_needed": "જરૂરી દસ્તાવેજો",
+        "best_price_at": "સૌથી વધુ ભાવ અહીં ઉપલબ્ધ છે",
+        "compare_crops_sub": "શ્રેષ્ઠ સોદો શોધવા માટે વિવિધ મંડીઓ વચ્ચેના ભાવોની તુલના કરો",
+        "select_crop_compare": "તુલના કરવા માટે પાક પસંદ કરો",
+        "enam_title": "eNAM — નેશનલ એગ્રી માર્કેટ",
+        "enam_desc": "દેશભરની 1,000+ મંડીઓના સંકલિત ઇલેક્ટ્રોનિક નેટવર્ક પર તમારી ઉપજ વેચો.",
+        "soil_title": "સોઇલ હેલ્થ કાર્ડ યોજના",
+        "soil_desc": "દર 2 વર્ષે મફત જમીન પરીક્ષણ અને વ્યક્તિગત ખાતર ભલામણો મેળવો.",
+        "gujarat_title": "ગુજરાત કૃષિ વિભાગ",
+        "gujarat_desc": "ગુજરાતના ખેડૂતો માટે વિશિષ્ટ રાજ્ય યોજનાઓ, સબસિડી અને કૃષિ સલાહ.",
+        "nabard_title": "નાબાર્ડ — ગ્રામીણ નાણા",
+        "nabard_desc": "કૃષિ લોન, ગ્રામીણ માળખાકીય ભંડોળ અને સહકારી લોન સહાય યોજનાઓનો ઉપયોગ કરો.",
+        "benef_enam": "સમગ્ર ભારતમાં તમારી ઉપજ માટે પારદર્શક અને સ્પર્ધાત્મક ભાવો મેળવો.",
+        "benef_soil": "તમારી જમીનની ચોકસાઈપૂર્વકની પોષક તત્વોની જરૂરિયાતો જાણો - ખાતર પર પૈસા બચાવો.",
+        "benef_gujarat": "ગુજરાત-વિશિષ્ટ સબસિડીનો ઉપયોગ કરો: ટપક સિંચાઈ, બીજ, ટ્રેક્ટર, વગેરે.",
+        "benef_nabard": "બેંકોને કૃષિ લોન માટે પુનઃધિરાણ. વ્યાજ સબવેન્શન યોજનાઓ.",
     },
     "hi": {
         "title": "फार्मप्राइस | प्रीमियम डैशबोर्ड",
@@ -296,6 +472,94 @@ translations = {
         "cost_summary_title": "अनुमानित लागत सारांश",
         "total_cost_label": "अनुशंसित उर्वरकों के लिए कुल",
         "per_acre_approx": "प्रति एकड़ लगभग।",
+        "period_1m": "1 महीना",
+        "period_3m": "3 महीने",
+        "period_6m": "6 महीने",
+        "hours_24": "24 घंटे",
+        "bullish": "तेजी",
+        "bearish": "मंदी",
+        "resource_portal_title": "संसाधन पोर्टल",
+        "resource_portal_sub": "योजना का पूरा विवरण, पात्रता और आवेदन कैसे करें, यह देखने के लिए नीचे दिए गए किसी भी कार्ड पर क्लिक करें।",
+        "open_btn": "खोलें ↗",
+        "call_btn": "कॉल करने के लिए टैप करें — निःशुल्क",
+        "dial_instantly": "तुरंत डायल करने के लिए क्लिक करें",
+        "official_portal": "आधिकारिक पोर्टल",
+        "portal_note": "आधिकारिक सरकारी वेबसाइट खुलती है",
+        "elig_all": "खेती योग्य भूमि वाले सभी छोटे और सीमांत किसान",
+        "elig_aadhaar": "आधार लिंक बैंक खाता आवश्यक",
+        "step_visit": "पोर्टल पर जाएं",
+        "step_reg": "आधार और बैंक विवरण के साथ पंजीकरण करें",
+        "doc_aadhaar": "आधार कार्ड",
+        "doc_passbook": "बैंक पासबुक",
+        "doc_land": "भूमि रिकॉर्ड",
+        "elig_pmfby_1": "अधिसूचित फसल उगाने वाले सभी किसान",
+        "elig_pmfby_2": "ऋणी और गैर-ऋणी दोनों किसान",
+        "elig_kcc_1": "सभी किसान (व्यक्तिगत / संयुक्त)",
+        "elig_kcc_2": "बटाईदार और मौखिक पट्टेदार",
+        "elig_gujarat": "केवल गुजरात के पंजीकृत किसान",
+        "elig_nabard": "बैंकों के माध्यम से किसान",
+        "step_dial": "1800-180-1551 डायल करें",
+        "step_lang": "भाषा चुनें",
+        "step_grade": "गुणवत्ता ग्रेडिंग",
+        "step_auction": "इलेक्ट्रॉनिक नीलामी",
+        "step_sample": "मिट्टी का नमूना जमा करें",
+        "step_card": "कार्ड प्राप्त करें",
+        "faq_title": "अक्सर पूछे जाने वाले प्रश्न",
+        "back_btn": "← वापस",
+        "key_benefit": "मुख्य लाभ",
+        "benef_pmkisan": "प्रति वर्ष ₹6,000 सीधा बैंक हस्तांतरण",
+        "benef_pmfby": "कम प्रीमियम पर पूर्ण बीमा राशि",
+        "benef_kcc": "4-7% ब्याज पर ₹3 लाख तक की क्रेडिट सीमा",
+        "benef_helpline": "24/7 मुफ्त विशेषज्ञ कृषि सलाह",
+        "pmkisan_title": "पीएम-किसान (सम्मान निधि)",
+        "pmfby_title": "फसल बीमा (PMFBY)",
+        "kcc_title": "किसान क्रेडिट कार्ड (KCC)",
+        "helpline_title": "24/7 किसान कॉल सेंटर",
+        "pmkisan_desc": "आधिकारिक पोर्टल पर अपनी ₹6,000 वार्षिक आय सहायता स्थिति की जांच करें।",
+        "pmfby_desc": "प्राकृतिक आपदाओं और कीटों से होने वाले नुकसान को कवर करने वाला फसल बीमा।",
+        "kcc_desc": "बीज, उर्वरक और उपकरणों के लिए उच्च सीमा वाले क्रेडिट कार्ड के लिए आवेदन करें।",
+        "helpline_desc": "टोल-फ्री हेल्पलाइन — 22 भाषाओं में कृषि विशेषज्ञ उपलब्ध।",
+        "step_label": "चरण",
+        "loss_summary": "₹{u_price:,.0f}/क्विंटल पर बेचना यानी बाजार औसत के मुकाबले ₹{unit_diff:,.0f} प्रति क्विंटल का नुकसान है।",
+        "profit_summary": "उत्कृष्ट! आप बाजार मूल्य से ऊपर बेच रहे हैं 🎉। आपने प्रति क्विंटल अतिरिक्त ₹{unit_diff:,.0f} कमाए हैं।",
+        "legal_alert": "कानूनी चेतावनी: आपकी बिक्री मूल्य (₹{u_price:,.0f}) सरकारी MSP (₹{msp_val:,.0f}) से कम है। यह एक गंभीर हानि की स्थिति है।",
+        "urea_inst": "विकास के दौरान 2-3 बार प्रयोग करें",
+        "dap_inst": "बुवाई के समय प्रयोग करें",
+        "mop_inst": "फूल आने से पहले प्रयोग करें",
+        "vermi_inst": "बुवाई से पहले मिट्टी में मिलाएं",
+        "faq_1_q": "मैं ई-नाम पोर्टल पर अपनी मंडी कैसे पंजीकृत कर सकता हूँ?",
+        "faq_1_a": "enam.gov.in पर जाएं, 'पंजीकरण' पर क्लिक करें। आपकी मंडी समिति को राज्य कृषि विभाग के माध्यम से आवेदन करना होगा।",
+        "faq_2_q": "पीएम-किसान की अगली किस्त कब आएगी?",
+        "faq_2_a": "किस्तें आमतौर पर अप्रैल-जुलाई, अगस्त-नवंबर और दिसंबर-मार्च में जारी की जाती हैं। पीएम-किसान पोर्टल पर अपनी स्थिति जांचें।",
+        "faq_3_q": "यदि मेरी फसल खराब हो जाए तो मैं फसल बीमा का दावा कैसे करूँ?",
+        "faq_3_a": "PMFBY ऐप पर 72 घंटों के भीतर फसल क्षति की सूचना दें या 1800-200-7710 पर कॉल करें।",
+        "faq_4_q": "क्या मैं भूमि स्वामित्व के बिना केसीसी के लिए आवेदन कर सकता हूँ?",
+        "faq_4_a": "हाँ! बटाईदार और मौखिक पट्टेदार भी संयुक्त देयता समूह के साथ केसीसी के लिए पात्र हैं।",
+        "enam_title": "eNAM — नेशनल एग्री मार्केट",
+        "enam_desc": "देश भर की 1,000+ मंडियों के एकीकृत इलेक्ट्रॉनिक नेटवर्क पर अपनी उपज बेचें।",
+        "soil_title": "मृदा स्वास्थ्य कार्ड योजना",
+        "soil_desc": "हर 2 साल में मुफ़्त मिट्टी परीक्षण और व्यक्तिगत उर्वरक सिफारिशें प्राप्त करें।",
+        "gujarat_title": "गुजरात कृषि विभाग",
+        "gujarat_desc": "गुजरात के किसानों के लिए विशिष्ट राज्य योजनाएं, सब्सिडी और कृषि सलाह।",
+        "nabard_title": "नाबार्ड — ग्रामीण वित्त",
+        "nabard_desc": "कृषि ऋण, ग्रामीण बुनियादी ढांचा निधि और सहकारी ऋण सहायता योजनाओं तक पहुंचें।",
+        "benef_enam": "पूरे भारत में अपनी उपज के लिए पारदर्शी और प्रतिस्पर्धी कीमतें प्राप्त करें।",
+        "benef_soil": "अपनी मिट्टी की सटीक पोषक तत्वों की जरूरतों को जानें - खाद पर पैसे बचाएं।",
+        "benef_gujarat": "गुजरात-विशिष्ट सब्सिडी तक पहुंच: ड्रिप सिंचाई, बीज, ट्रैक्टर, आदि।",
+        "benef_nabard": "बैंकों को कृषि ऋण के लिए पुनर्वित्त। ब्याज सबवेंशन योजनाएं।",
+        "avg_mkt_rate": "वर्तमान औसत बाजार दर",
+        "input_price_label": "अपनी वास्तविक बिक्री कीमत दर्ज करें (₹/q)",
+        "per_bag": "प्रति 50 किलो बैग",
+        "urea_label": "यूरिया",
+        "dap_label": "डीएपी (डी-अमोनियम फास्फेट)",
+        "vermi_label": "वर्मीकम्पोस्ट",
+        "mop_label": "पोटाश (MOP)",
+        "who_is_eligible": "कौन पात्र है",
+        "how_to_apply": "आवेदन कैसे करें",
+        "docs_needed": "आवश्यक दस्तावेज़",
+        "best_price_at": "सबसे अच्छी कीमत यहाँ उपलब्ध है",
+        "compare_crops_sub": "सर्वोत्तम डील खोजने के लिए विभिन्न मंडियों के बीच कीमतों की तुलना करें",
+        "select_crop_compare": "तुलना करने के लिए फसल चुनें",
     }
 }
 
@@ -350,15 +614,25 @@ st.markdown("""
         background-size: 400% 400%;
         animation: meshGradient 15s ease infinite !important;
     }
+
+    /* Remove Streamlit Header & Default Padding */
+    [data-testid="stHeader"] {
+        display: none !important;
+    }
+    .main .block-container {
+        padding-top: 2rem !important;
+        padding-bottom: 2rem !important;
+        max-width: 95% !important;
+    }
     
-    /* Floating Glass Sidebar */
+    /* Floating Glass Sidebar - Flush with Top */
     section[data-testid="stSidebar"] {
         background: rgba(255, 255, 255, 0.8) !important;
         backdrop-filter: blur(24px) !important;
         border-right: 1px solid rgba(255, 255, 255, 0.3) !important;
-        border-radius: 0 32px 32px 0 !important;
-        margin: 16px 0 16px 0 !important;
-        height: calc(100vh - 32px) !important;
+        border-radius: 0 !important;
+        margin: 0 !important;
+        height: 100vh !important;
         box-shadow: 12px 0 32px rgba(0,0,0,0.03) !important;
         transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1) !important;
     }
@@ -487,46 +761,7 @@ st.markdown("""
         animation: borderGlow 4s ease infinite;
     }
 
-    /* Floating AI Assistant FAB */
-    .ai-fab {
-        position: fixed; bottom: 40px; right: 40px; z-index: 999999;
-        width: 68px; height: 68px; border-radius: 50%;
-        background: linear-gradient(135deg, #10B981, #059669);
-        box-shadow: 0 10px 25px rgba(16, 185, 129, 0.4);
-        display: flex; align-items: center; justify-content: center;
-        color: white; font-size: 28px; cursor: pointer;
-        transition: 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-        animation: pulseFAB 2s infinite;
-    }
-    .ai-fab:hover {
-        transform: scale(1.15) rotate(15deg);
-        box-shadow: 0 20px 40px rgba(16, 185, 129, 0.6);
-        animation: none;
-    }
-    @keyframes pulseFAB {
-        0% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7); }
-        70% { box-shadow: 0 0 0 25px rgba(16, 185, 129, 0); }
-        100% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
-    }
-    .ai-fab-tooltip {
-        position: absolute; right: 85px; top: 18px;
-        background: #1E293B; color: white;
-        padding: 10px 20px; border-radius: 16px; font-size: 15px; font-weight: 800;
-        opacity: 0; pointer-events: none; transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-        white-space: nowrap; box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-        border: 1px solid rgba(255,255,255,0.1);
-        transform: translateX(10px);
-    }
-    .ai-fab:hover .ai-fab-tooltip { 
-        opacity: 1; 
-        transform: translateX(0); 
-    }
 </style>
-
-<div class="ai-fab">
-    ✨
-    <div class="ai-fab-tooltip">Chat with FarmPrice AI</div>
-</div>
 """, unsafe_allow_html=True)
 
 # --- REUSABLE COMPONENTS ---
@@ -535,7 +770,7 @@ def render_market_ticker(df):
     ticker_html = """<div class="ticker-wrap"><div class="ticker">"""
     for m in all_markets:
         avg_p = df[df['Market Name'] == m]['Market Price'].mean()
-        ticker_html += f"""<div class="ticker-item">🏛️ {tm(m)}: <span class="ticker-price">₹{avg_p:,.0f}</span></div>"""
+        ticker_html += f"""<div class="ticker-item">{t('mandi')} {tm(m)}: <span class="ticker-price">₹{avg_p:,.0f}</span></div>"""
     ticker_html += """</div></div>"""
     st.markdown(ticker_html, unsafe_allow_html=True)
 
@@ -617,7 +852,6 @@ with st.sidebar:
     st.markdown(f"""
         <div style="text-align: center; padding-bottom: 20px;">
             <h1 style="color: #2E7D32; font-size: 28px; margin-bottom: 0;">🌾 FarmPrice</h1>
-            <p style="color: #666; font-size: 14px; margin-top: 5px;">Smart Farming for Vadodara</p>
         </div>
     """, unsafe_allow_html=True)
 
@@ -1058,15 +1292,15 @@ def render_market_comparison():
       <h1 class="tw-text-3xl tw-font-extrabold tw-text-slate-900 tw-flex tw-items-center tw-gap-3" style="margin:0;">
         <span style="color:#2F7D4A;">📊</span> {t("nav_market")}
       </h1>
-      <p class="tw-text-slate-500" style="margin-top:0.25rem;">Compare prices across different mandis to find the best deal</p>
+      <p class="tw-text-slate-500" style="margin-top:0.25rem;">{t("compare_crops_sub")}</p>
     </div>
     """
     
     st.markdown(react_css + header_html, unsafe_allow_html=True)
     
     # Selectors Section
-    st.markdown("""<div class="tw-bg-white tw-p-6 tw-rounded-2xl tw-border tw-border-slate-100 tw-shadow-sm tw-mb-8">
-        <label class="tw-text-xs tw-font-bold tw-text-slate-400 tw-uppercase tw-tracking-wider" style="display:block; margin-bottom:0.5rem;">🌿 Select Crop to Compare</label>""", unsafe_allow_html=True)
+    st.markdown(f"""<div class="tw-bg-white tw-p-6 tw-rounded-2xl tw-border tw-border-slate-100 tw-shadow-sm tw-mb-8">
+        <label class="tw-text-xs tw-font-bold tw-text-slate-400 tw-uppercase tw-tracking-wider" style="display:block; margin-bottom:0.5rem;">🌿 {t("select_crop_compare")}</label>""", unsafe_allow_html=True)
     
     crop_list = sorted(df['Crop Name'].unique())
     selected_crop = st.selectbox(t("select_crop"), crop_list, key="sel_crop", label_visibility="collapsed", format_func=tc)
@@ -1091,7 +1325,7 @@ def render_market_comparison():
           <div class="tw-flex tw-items-center tw-gap-6">
             <div class="tw-bg-green-200 tw-text-green-700 tw-rounded-full tw-flex tw-items-center tw-justify-between tw-text-2xl" style="width: 3rem; height: 3rem; justify-content: center;">★</div>
             <div>
-              <p class="tw-text-xxs tw-font-bold tw-text-green-800 tw-uppercase tw-tracking-wider" style="margin:0 0 0.25rem 0;">Best Price Available At</p>
+              <p class="tw-text-xxs tw-font-bold tw-text-green-800 tw-uppercase tw-tracking-wider" style="margin:0 0 0.25rem 0;">{t("best_price_at")}</p>
               <h2 class="tw-text-xl tw-font-black tw-text-green-900" style="margin:0;">{tm(best_mkt['Market Name'])} {t("mandi")}</h2>
               <p class="tw-text-lg tw-font-black tw-text-green-600" style="margin:0.25rem 0 0 0;">₹{best_stats['price']:,}/quintal</p>
             </div>
@@ -1105,18 +1339,18 @@ def render_market_comparison():
         st.markdown(best_html, unsafe_allow_html=True)
 
         # Price Comparison Chart Section
-        st.markdown("""<div class="tw-bg-white tw-rounded-3xl tw-border tw-border-slate-100 tw-shadow-md tw-p-8 tw-mb-10" style="overflow:hidden;">
+        st.markdown(f"""<div class="tw-bg-white tw-rounded-3xl tw-border tw-border-slate-100 tw-shadow-md tw-p-8 tw-mb-10" style="overflow:hidden;">
             <div class="tw-flex tw-items-center tw-justify-between tw-mb-10">
               <div class="tw-flex tw-items-center tw-gap-3">
                  <span style="color:#2F7D4A; font-size:24px;">📊</span>
-                 <h3 class="tw-font-extrabold tw-text-slate-800 tw-text-xl tw-tracking-tight" style="margin:0;">Market Price Distribution (Today)</h3>
+                 <h3 class="tw-font-extrabold tw-text-slate-800 tw-text-xl tw-tracking-tight" style="margin:0;">{t("mkt_dist_title")}</h3>
               </div>
               <div class="tw-flex tw-items-center tw-gap-6">
                  <div class="tw-flex tw-items-center tw-gap-1 tw-font-bold tw-text-slate-400 tw-text-xs">
-                    <div style="width:0.75rem; height:0.75rem; background:#2F7D4A; border-radius:0.125rem;"></div> MARKET PRICE
+                    <div style="width:0.75rem; height:0.75rem; background:#2F7D4A; border-radius:0.125rem;"></div> {t("market_price").upper()}
                  </div>
                  <div class="tw-flex tw-items-center tw-gap-1 tw-font-bold tw-text-xs" style="color:#3B82F6;">
-                    <div style="width:0.75rem; height:0.75rem; border:2px dashed #3B82F6; border-radius:0.125rem;"></div> GOVT MSP
+                    <div style="width:0.75rem; height:0.75rem; border:2px dashed #3B82F6; border-radius:0.125rem;"></div> {t("msp").upper()}
                  </div>
               </div>
             </div>""", unsafe_allow_html=True)
@@ -1267,7 +1501,13 @@ def render_price_prediction():
     with col1:
         selected_crop = st.selectbox(t("select_crop"), crop_list, key="sel_crop", label_visibility="collapsed", format_func=tc)
     with col2:
-        period = st.selectbox(t("pred_period"), ["1 Month", "3 Months", "6 Months"], index=1, label_visibility="collapsed", key="pred_period")
+        period_options = {
+            t("period_1m"): "1 Month",
+            t("period_3m"): "3 Months",
+            t("period_6m"): "6 Months"
+        }
+        period_label = st.selectbox(t("pred_period"), list(period_options.keys()), index=1, label_visibility="collapsed", key="pred_period")
+        period = period_options[period_label]
         
     st.markdown('</div></div>', unsafe_allow_html=True)
 
@@ -1299,9 +1539,9 @@ def render_price_prediction():
         advice = t("hold_adv") if is_bullish else t("sell_adv")
         gain_text = f"+{int(gain)}" if is_bullish else f"{int(gain)}"
         
-        trend = "Bullish" if is_bullish else "Bearish" # Logic key, keep internal
+        trend = t("bullish") if is_bullish else t("bearish") 
     else:
-        verdict, advice, gain_text, conf_score, is_bullish, trend = t("hold_verdict"), t("hold_adv"), "+240", 86, True, "Bullish"
+        verdict, advice, gain_text, conf_score, is_bullish, trend = t("hold_verdict"), t("hold_adv"), "+240", 86, True, t("bullish")
 
     # Harvest Advisor Card (React styled)
     card_bg = "tw-bg-grad-green" if is_bullish else "tw-bg-grad-red"
@@ -1336,7 +1576,7 @@ def render_price_prediction():
            </div>
            <div class="tw-bg-white-60 tw-backdrop-blur tw-p-5 tw-rounded-2xl tw-border tw-border-white-50 tw-shadow-sm">
               <p class="tw-text-xxs tw-font-black tw-text-slate-500 tw-uppercase tw-tracking-widest tw-mb-1 tw-opacity-70" style="margin:0;">{t("next_update")}</p>
-              <p class="tw-text-2xl tw-font-black tw-text-slate-700 tw-flex tw-items-center tw-gap-2 tw-italic tw-uppercase" style="margin:0;">24 Hours</p>
+              <p class="tw-text-2xl tw-font-black tw-text-slate-700 tw-flex tw-items-center tw-gap-2 tw-italic tw-uppercase" style="margin:0;">{t("hours_24")}</p>
            </div>
         </div>
 
@@ -1501,20 +1741,20 @@ def render_fertilizers():
     # Fertilizer Data based on Wheat (as in image)
     fert_data = [
         {
-            "name": "Urea", "local": "યૂરિયા", "icon": "💧", "bg": "#EFF6FF", "text_color": "#2563EB",
-            "category": "Nitrogen (N)", "price": 267, "brand": "IFFCO", "instruction": "Apply 2-3 times during growth", "inst_local": "વૃદ્ધિ દરમિયાન 2-3 વાર લાગુ કરો"
+            "name": t("urea_label"), "local": "Urea", "icon": "💧", "bg": "#EFF6FF", "text_color": "#2563EB",
+            "category": "Nitrogen (N)", "price": 267, "brand": "IFFCO", "instruction": t("urea_inst")
         },
         {
-            "name": "DAP (Di-ammonium Phosphate)", "local": "ડીએપી", "icon": "☀️", "bg": "#FFFBEB", "text_color": "#D97706",
-            "category": "Phosphorus (P)", "price": 1350, "brand": "IFFCO", "instruction": "Apply at sowing time", "inst_local": "વાવણી સમયે લાગુ કરો"
+            "name": t("dap_label"), "local": "DAP", "icon": "☀️", "bg": "#FFFBEB", "text_color": "#D97706",
+            "category": "Phosphorus (P)", "price": 1350, "brand": "IFFCO", "instruction": t("dap_inst")
         },
         {
-            "name": "MOP (Muriate of Potash)", "local": "પોટાશ", "icon": "🌿", "bg": "#FAF5FF", "text_color": "#9333EA",
-            "category": "Potassium (K)", "price": 1700, "brand": "IPL", "instruction": "Apply before flowering", "inst_local": "ફૂલો આવે તે પહેલાં લાગુ કરો"
+            "name": t("mop_label"), "local": "MOP", "icon": "🌿", "bg": "#FAF5FF", "text_color": "#9333EA",
+            "category": "Potassium (K)", "price": 1700, "brand": "IPL", "instruction": t("mop_inst")
         },
         {
-            "name": "Vermicompost", "local": "વર્મિકમ્પોસ્ટ", "icon": "🌱", "bg": "#F0FDF4", "text_color": "#16A34A",
-            "category": "Organic", "price": 400, "brand": "Local", "instruction": "Mix in soil before sowing", "inst_local": "વાવણી પહેલા માટીમાં ભેળવો"
+            "name": t("vermi_label"), "local": "Vermicompost", "icon": "🌱", "bg": "#F0FDF4", "text_color": "#16A34A",
+            "category": "Organic", "price": 400, "brand": "Local", "instruction": t("vermi_inst")
         }
     ]
     
@@ -1544,14 +1784,13 @@ def render_fertilizers():
         </div>
         <div>
             <span class="price-value">₹{f['price']}</span>
-            <span class="price-unit">per 50kg bag</span>
+            <span class="price-unit">{t("per_bag")}</span>
         </div>
     </div>
     <div class="instruction-box">
         <div class="inst-icon">📦</div>
         <div class="f-name-box">
             <p class="inst-text">{f['instruction']}</p>
-            <p class="f-name-local" style="font-size:11px;">{f['inst_local']}</p>
         </div>
     </div>
 </div>
@@ -1566,15 +1805,15 @@ def render_fertilizers():
         <h3 class="summary-title"><span style="font-size: 24px;">₹</span> {t('cost_summary_title')}</h3>
         <div class="summary-grid">
             <div class="summary-item">
-                <p class="summary-item-name">Urea</p>
+                <p class="summary-item-name">{t("urea_label")}</p>
                 <p class="summary-item-price">₹267</p>
             </div>
             <div class="summary-item">
-                <p class="summary-item-name">DAP (Di-ammonium Phosphate)</p>
+                <p class="summary-item-name">{t("dap_label")}</p>
                 <p class="summary-item-price">₹1350</p>
             </div>
             <div class="summary-item">
-                <p class="summary-item-name">Vermicompost</p>
+                <p class="summary-item-name">{t("vermi_label")}</p>
                 <p class="summary-item-price">₹400</p>
             </div>
         </div>
@@ -1620,9 +1859,9 @@ def render_loss_analysis():
         
         p1, p2 = st.columns(2)
         with p1:
-            st.markdown(f"""<div class="calculator-panel"><div class="calc-impact-header"><div class="calc-icon-dot" style="background:#10B981; animation:none;"></div><span style="font-weight:900; color:#1E293B; font-size:14px;">{t("benchmark_price")}</span></div><p class="calc-label">Current average market rate</p><p style="font-size:32px; font-weight:950; color:#10B981; letter-spacing:-0.03em;">₹{mkt_avg:,.0f}<span style="font-size:14px; color:#94A3B8;">/q</span></p></div>""", unsafe_allow_html=True)
+            st.markdown(f"""<div class="calculator-panel"><div class="calc-impact-header"><div class="calc-icon-dot" style="background:#10B981; animation:none;"></div><span style="font-weight:900; color:#1E293B; font-size:14px;">{t("benchmark_price")}</span></div><p class="calc-label">{t("avg_mkt_rate")}</p><p style="font-size:32px; font-weight:950; color:#10B981; letter-spacing:-0.03em;">₹{mkt_avg:,.0f}<span style="font-size:14px; color:#94A3B8;">/q</span></p></div>""", unsafe_allow_html=True)
         with p2:
-            st.markdown(f'<div class="calculator-panel"><div class="calc-impact-header"><div class="calc-icon-dot"></div><span style="font-weight:900; color:#1E293B; font-size:14px;">{t("your_price")}</span></div><p class="calc-label">Input your actual selling price (₹/q)</p>', unsafe_allow_html=True)
+            st.markdown(f'<div class="calculator-panel"><div class="calc-impact-header"><div class="calc-icon-dot"></div><span style="font-weight:900; color:#1E293B; font-size:14px;">{t("your_price")}</span></div><p class="calc-label">{t("input_price_label")}</p>', unsafe_allow_html=True)
             u_price = st.number_input(t("your_price"), min_value=1.0, value=float(round(mkt_avg*0.85)) if mkt_avg > 0 else 1000.0, step=10.0, label_visibility="collapsed", key="u_price")
             st.markdown('</div>', unsafe_allow_html=True)
             
@@ -1664,25 +1903,25 @@ def render_loss_analysis():
         
         if unit_diff > 0:
             st.markdown(f"""<div class="calculator-panel" style="margin-top:24px; border:2px solid rgba(225,29,72,0.2); background:linear-gradient(135deg, white, #FFF1F2);">
-                <div style="font-size: 0.9rem; font-weight: 800; color: #E11D48; text-transform:uppercase; letter-spacing:0.1em; margin-bottom:8px;">Calculated Revenue Loss</div>
+                <div style="font-size: 0.9rem; font-weight: 800; color: #E11D48; text-transform:uppercase; letter-spacing:0.1em; margin-bottom:8px;">{t("rev_loss")}</div>
                 <div style="font-size: 40px; font-weight: 950; color: #E11D48; margin: 10px 0; letter-spacing:-0.05em;">₹{total_diff:,.0f}</div>
-                <p style="color: #64748B; font-size: 13px; font-weight:500;">Selling at ₹{u_price:,.0f}/q implies a loss of <b>₹{unit_diff:,.0f} per quintal</b> vs the market average.</p>
+                <p style="color: #64748B; font-size: 13px; font-weight:500;">{t("loss_summary").format(u_price=u_price, unit_diff=unit_diff)}</p>
             </div>""", unsafe_allow_html=True)
             
             # Optional MSP Comparison
             if u_price < msp_val:
-                st.warning(f"⚠️ **Legal Alert**: Your selling price (₹{u_price:,.0f}) is below the Government MSP (₹{msp_val:,.0f}). This is a significant loss situation.")
+                st.warning(f"⚠️ {t('legal_alert').format(u_price=u_price, msp_val=msp_val)}")
         else:
             st.markdown(f"""<div class="calculator-panel" style="margin-top:24px; border:2px solid rgba(16,185,129,0.2); background:linear-gradient(135deg, white, #ECFDF5);">
-                <div style="font-size: 0.9rem; font-weight: 800; color: #10B981; text-transform:uppercase; letter-spacing:0.1em; margin-bottom:8px;">Excellent Work!</div>
+                <div style="font-size: 0.9rem; font-weight: 800; color: #10B981; text-transform:uppercase; letter-spacing:0.1em; margin-bottom:8px;">{t("excellent_work")}</div>
                 <div style="font-size: 40px; font-weight: 950; color: #10B981; margin: 10px 0; letter-spacing:-0.05em;">+₹{abs(total_diff):,.0f}</div>
-                <p style="color: #64748B; font-size: 13px; font-weight:500;">Great! You are selling above the market price 🎉. You've earned an extra <b>₹{abs(unit_diff):,.0f} per quintal</b>.</p>
+                <p style="color: #64748B; font-size: 13px; font-weight:500;">{t("profit_summary").format(unit_diff=abs(unit_diff))}</p>
             </div>""", unsafe_allow_html=True)
         
         fig = go.Figure(go.Indicator(
             mode = "gauge+number",
             value = u_price,
-            title = {'text': "Farmer Price vs Market Benchmark", 'font': {'size': 18, 'color': '#1E293B'}},
+            title = {'text': t("price_vs_benchmark"), 'font': {'size': 18, 'color': '#1E293B'}},
             gauge = {
                 'axis': {'range': [min(u_price, mkt_avg)*0.7, max(u_price, mkt_avg)*1.3], 'tickwidth': 1},
                 'bar': {'color': "#10B981" if u_price > mkt_avg else "#E11D48"},
@@ -1707,119 +1946,114 @@ def render_loss_analysis():
 # Page 7: Support & Info
 # ---------------------------------------------------------
 def render_support_info():
-
     # --- Session state for internal sub-page routing ---
     if 'support_page' not in st.session_state:
         st.session_state.support_page = None
 
     support_items = [
         {
-            "key": "pmkisan", "icon": "🏛️", "title": "PM-Kisan (" + ("સન્માન નિધિ" if st.session_state.lang == 'gu' else "Samman Nidhi") + ")",
-            "desc": "Check your ₹6,000 yearly income support status directly on the official portal." if st.session_state.lang == 'en' else "સત્તાવાર પોર્ટલ પર તમારી વાર્ષિક ₹6,000 આવક સહાયની સ્થિતિ તપાસો.",
+            "key": "pmkisan", "icon": "🏛️", "title": t("pmkisan_title"),
+            "desc": t("pmkisan_desc"),
             "action": t("view_details"), "color": "#2563EB", "bg": "#EFF6FF",
             "url": "https://pmkisan.gov.in/",
-            "benefit": "₹6,000 per year (₹2,000 every 4 months) direct bank transfer",
-            "eligibility": ["All small & marginal farmers with cultivable land", "Annual household income below ₹2 lakh", "Aadhaar linked bank account required"],
-            "steps": ["Visit pmkisan.gov.in or your nearest Common Service Centre", "Register with Aadhaar, bank account & land records", "CSC operator submits application to State Govt", "After verification, installments come to your bank directly"],
-            "docs": ["Aadhaar Card", "Bank passbook (with IFSC)", "Land ownership documents", "Mobile number"],
-            "helpline": "PM-Kisan Helpline: 155261 / 1800-115-526",
+            "benefit": t("benef_pmkisan"),
+            "eligibility": [t("elig_all"), t("elig_aadhaar")],
+            "steps": [t("step_visit"), t("step_reg")],
+            "docs": [t("doc_aadhaar"), t("doc_passbook"), t("doc_land")],
+            "helpline": "155261 / 1800-115-526",
         },
         {
-            "key": "pmfby", "icon": "🛡️", "title": "Fasal Bima (" + ("પાક વીમો" if st.session_state.lang == 'gu' else "PMFBY") + ")",
-            "desc": "Comprehensive crop insurance covering losses from natural calamities & pests." if st.session_state.lang == 'en' else "કુદરતી આફતો અને જીવાતોથી થતા નુકસાનને આવરી લેતો વ્યાપક પાક વીમો.",
+            "key": "pmfby", "icon": "🛡️", "title": t("pmfby_title"),
+            "desc": t("pmfby_desc"),
             "action": t("view_details"), "color": "#10B981", "bg": "#ECFDF5",
             "url": "https://pmfby.gov.in/",
-            "benefit": "Full insurance sum at just 2% premium for Kharif, 1.5% for Rabi crops",
-            "eligibility": ["All farmers growing notified crops", "Both loanee and non-loanee farmers", "Sharecroppers and tenant farmers also covered"],
-            "steps": ["Enroll before cut-off date at your bank or CSC", "Pay small premium based on crop type", "Report crop loss within 72 hours of damage", "Claims settled within 2 months of harvest"],
-            "docs": ["Bank account details", "Land records / Lease agreement", "Sowing certificate", "Mobile number for crop loss alerts"],
-            "helpline": "Crop Insurance Helpline: 1800-200-7710",
+            "benefit": t("benef_pmfby"),
+            "eligibility": [t("elig_pmfby_1"), t("elig_pmfby_2")],
+            "steps": [t("step_visit"), t("step_reg")],
+            "docs": [t("doc_aadhaar"), t("doc_passbook"), t("doc_land")],
+            "helpline": "1800-200-7710",
         },
         {
-            "key": "kcc", "icon": "💳", "title": "Kisan Credit Card (" + ("કિસાન ક્રેડિટ કાર્ડ" if st.session_state.lang == 'gu' else "KCC") + ")",
-            "desc": "Apply for a high-limit revolving credit card for seeds, fertilizers & equipment." if st.session_state.lang == 'en' else "બિયારણ, ખાતર અને સાધનો માટે ઉચ્ચ મર્યાદાવાળા રિવોલ્વિંગ ક્રેડિટ કાર્ડ માટે અરજી કરો.",
+            "key": "kcc", "icon": "💳", "title": t("kcc_title"),
+            "desc": t("kcc_desc"),
             "action": t("view_details"), "color": "#F59E0B", "bg": "#FFFBEB",
             "url": "https://www.nabard.org/content1.aspx?id=572&catid=23&mid=530",
-            "benefit": "Credit limit up to ₹3 lakh at 4-7% interest (subsidized). No collateral for loans up to ₹1.6 lakh.",
-            "eligibility": ["All farmers (individual / joint borrowers)", "Self-Help Groups & Joint Liability Groups", "Tenant farmers, oral lessees & sharecroppers"],
-            "steps": ["Visit your nearest bank or cooperative bank", "Submit application with land & ID documents", "Bank assesses your landholding & crop pattern", "KCC issued within 2 weeks of approval"],
-            "docs": ["Identity proof (Aadhaar / Voter ID)", "Land ownership or lease documents", "Passport size photo", "Bank account details"],
-            "helpline": "NABARD Helpline: 1800-22-0000",
+            "benefit": t("benef_kcc"),
+            "eligibility": [t("elig_kcc_1"), t("elig_kcc_2")],
+            "steps": [t("step_visit"), t("step_reg")],
+            "docs": [t("doc_aadhaar"), t("doc_passbook"), t("doc_land")],
+            "helpline": "1800-22-0000",
         },
         {
-            "key": "helpline", "icon": "📞", "title": "24/7 Kisan Call Centre",
-            "desc": "Toll-free helpline 1800-180-1551 — agri-experts available in 22 languages.",
-            "action": "View Details", "color": "#E11D48", "bg": "#FFF1F2",
+            "key": "helpline", "icon": "📞", "title": t("helpline_title"),
+            "desc": t("helpline_desc"),
+            "action": t("view_details"), "color": "#E11D48", "bg": "#FFF1F2",
             "url": "tel:18001801551",
-            "benefit": "Free expert agricultural advice in your mother tongue, 24 hours a day.",
-            "eligibility": ["All farmers across India", "No registration required", "Available in Hindi, Gujarati, and 20 more languages"],
-            "steps": ["Dial 1800-180-1551 (toll-free, no charge)", "Select your preferred language", "Describe your farming problem to the expert", "Get instant advice on seeds, pests, weather, schemes"],
-            "docs": ["No documents needed", "Just call and speak to an expert"],
-            "helpline": "Kisan Call Centre: 1800-180-1551 (24/7 Free)",
+            "benefit": t("benef_helpline"),
+            "eligibility": [t("elig_all")],
+            "steps": [t("step_dial"), t("step_lang")],
+            "docs": ["NA"],
+            "helpline": "1800-180-1551 (24/7)",
         },
         {
-            "key": "enam", "icon": "🌾", "title": "eNAM — National Agri Market",
-            "desc": "Sell your produce on India's unified electronic mandi network across 1,000+ markets.",
-            "action": "View Details", "color": "#7C3AED", "bg": "#F5F3FF",
+            "key": "enam", "icon": "🌾", "title": t("enam_title"),
+            "desc": t("enam_desc"),
+            "action": t("view_details"), "color": "#7C3AED", "bg": "#F5F3FF",
             "url": "https://www.enam.gov.in/",
-            "benefit": "Get transparent, competitive prices for your produce across state borders.",
-            "eligibility": ["All farmers with produce registered with APMC", "Traders registered on eNAM platform", "Nearby mandis must be eNAM-integrated"],
-            "steps": ["Register at eNAM mandi or online at enam.gov.in", "Bring your produce to the mandi for quality grading", "Your lot is auctioned electronically to buyers nationwide", "Payment deposited directly to your bank account"],
-            "docs": ["Aadhaar Card", "Bank account details", "Mandi license (if trader)", "Mobile number"],
-            "helpline": "eNAM Helpdesk: 1800-270-0224",
+            "benefit": t("benef_enam"),
+            "eligibility": [t("elig_all")],
+            "steps": [t("step_visit"), t("step_grade"), t("step_auction")],
+            "docs": [t("doc_aadhaar"), t("doc_passbook")],
+            "helpline": "1800-270-0224",
         },
         {
-            "key": "soil", "icon": "🧪", "title": "Soil Health Card Scheme",
-            "desc": "Get a FREE soil test and personalized fertilizer recommendations every 2 years.",
-            "action": "View Details", "color": "#0891B2", "bg": "#ECFEFF",
+            "key": "soil", "icon": "🧪", "title": t("soil_title"),
+            "desc": t("soil_desc"),
+            "action": t("view_details"), "color": "#0891B2", "bg": "#ECFEFF",
             "url": "https://soilhealth.dac.gov.in/",
-            "benefit": "Know your soil's exact nutrient needs — save money on fertilizers and increase yield.",
-            "eligibility": ["All farmers in India", "Issued every 2 years per farm", "Free of cost — government funded"],
-            "steps": ["Visit your nearest Krishi Vigyan Kendra (KVK) or Agriculture office", "Provide a soil sample from your field (0-20cm depth)", "Lab tests 12 parameters including N, P, K, pH, organic carbon", "Card issued within 30 days with crop-wise recommendations"],
-            "docs": ["Land records or lease agreement", "Aadhaar for registration", "GPS location of field (optional but helpful)"],
-            "helpline": "Soil Health Card Helpline: 1800-180-1551",
+            "benefit": t("benef_soil"),
+            "eligibility": [t("elig_all")],
+            "steps": [t("step_visit"), t("step_sample"), t("step_card")],
+            "docs": [t("doc_aadhaar"), t("doc_land")],
+            "helpline": "1800-180-1551",
         },
         {
-            "key": "gujarat_agri", "icon": "🌿", "title": "Gujarat Agriculture Dept.",
-            "desc": "Official state schemes, subsidies, and farming advisories specific to Gujarat farmers.",
-            "action": "View Details", "color": "#15803D", "bg": "#F0FDF4",
+            "key": "gujarat_agri", "icon": "🌿", "title": t("gujarat_title"),
+            "desc": t("gujarat_desc"),
+            "action": t("view_details"), "color": "#15803D", "bg": "#F0FDF4",
             "url": "https://agri.gujarat.gov.in/",
-            "benefit": "Access Gujarat-specific subsidies: drip irrigation, seeds, tractors, solar pumps & more.",
-            "eligibility": ["Gujarat registered farmers only", "Varies by individual scheme", "Small & marginal farmers get priority"],
-            "steps": ["Visit agri.gujarat.gov.in or your local Taluka Agriculture Office", "Find relevant scheme for your crop/equipment", "Submit application with required documents", "Inspector verifies and subsidy is credited to your account"],
-            "docs": ["7/12 Utara (land record)", "Aadhaar Card", "Bank passbook", "Caste certificate (if applicable)"],
-            "helpline": "Gujarat Agri Helpline: 1800-233-0555",
+            "benefit": t("benef_gujarat"),
+            "eligibility": [t("elig_gujarat")],
+            "steps": [t("step_visit"), t("resource_portal_title")],
+            "docs": [t("doc_aadhaar"), t("doc_land")],
+            "helpline": "1800-233-0555",
         },
         {
-            "key": "nabard", "icon": "🏦", "title": "NABARD — Rural Finance",
-            "desc": "Access farm loans, rural infrastructure fund, and cooperative credit support schemes.",
-            "action": "View Details", "color": "#9333EA", "bg": "#FAF5FF",
+            "key": "nabard", "icon": "🏦", "title": t("nabard_title"),
+            "desc": t("nabard_desc"),
+            "action": t("view_details"), "color": "#9333EA", "bg": "#FAF5FF",
             "url": "https://www.nabard.org/",
-            "benefit": "Refinancing to banks for farm credit. Interest subvention schemes. Watershed & farmer group support.",
-            "eligibility": ["Farmers through banks & cooperatives", "Rural artisans and non-farm rural enterprises", "Farmer Producer Organizations (FPOs)"],
-            "steps": ["Contact your nearest Rural/Cooperative/Commercial Bank", "Ask for NABARD-refinanced loans or schemes", "Bank forwards eligible cases to NABARD", "NABARD provides funds at subsidized rates to the bank"],
-            "docs": ["Routed through your bank — bank will advise documents", "Typically: land records, Aadhaar, income proof"],
-            "helpline": "NABARD Helpline: 1800-22-0000",
+            "benefit": t("benef_nabard"),
+            "eligibility": [t("elig_nabard")],
+            "steps": [t("step_visit")],
+            "docs": [t("doc_aadhaar"), t("doc_land")],
+            "helpline": "1800-22-0000",
         },
     ]
 
-    # ----------------------------------------------------------------
-    # DETAIL PAGE VIEW (when a card is clicked)
-    # ----------------------------------------------------------------
     if st.session_state.support_page:
+        # DETAIL VIEW
         page_data = next((s for s in support_items if s['key'] == st.session_state.support_page), None)
         if page_data:
             col_back, _ = st.columns([1, 8])
             with col_back:
-                if st.button("← Back", key="support_back"):
+                if st.button(t("back_btn"), key="support_back"):
                     st.session_state.support_page = None
                     st.rerun()
 
             c = page_data['color']
             bg = page_data['bg']
-
-            # Hero Header
-            st.markdown(f"""
+            st.markdown(f'''
             <div style="background:{bg}; border:2px solid {c}22; border-radius:24px; padding:36px 32px; margin-bottom:28px; position:relative; overflow:hidden;">
                 <div style="position:absolute; top:0; left:0; width:100%; height:5px; background:{c};"></div>
                 <div style="display:flex; align-items:center; gap:20px; margin-bottom:16px;">
@@ -1830,151 +2064,74 @@ def render_support_info():
                     </div>
                 </div>
                 <div style="background:white; border-radius:14px; padding:18px 24px; border:1px solid {c}33;">
-                    <p style="font-size:11px; font-weight:800; color:{c}; text-transform:uppercase; letter-spacing:0.1em; margin:0 0 4px 0;">Key Benefit</p>
+                    <p style="font-size:11px; font-weight:800; color:{c}; text-transform:uppercase; letter-spacing:0.1em; margin:0 0 4px 0;">{t("key_benefit")}</p>
                     <p style="font-size:16px; font-weight:800; color:#0F172A; margin:0;">{page_data['benefit']}</p>
                 </div>
             </div>
-            """, unsafe_allow_html=True)
+            ''', unsafe_allow_html=True)
 
-            # 3-column info
             r1, r2, r3 = st.columns(3, gap="medium")
-
             with r1:
                 elig_html = "".join([f'<li style="margin-bottom:8px; line-height:1.5;">{e}</li>' for e in page_data['eligibility']])
-                st.markdown(f"""
-                <div style="background:white; border-radius:18px; padding:24px; border:1px solid #F1F5F9; box-shadow:0 4px 16px rgba(0,0,0,0.04); height:100%;">
-                    <p style="font-size:11px; font-weight:800; color:{c}; text-transform:uppercase; letter-spacing:0.1em; margin:0 0 12px 0;">✅ Who is Eligible</p>
-                    <ul style="font-size:13px; color:#334155; font-weight:500; padding-left:18px; margin:0; line-height:1.6;">
-                        {elig_html}
-                    </ul>
-                </div>
-                """, unsafe_allow_html=True)
-
+                st.markdown(f'<div style="background:white; border-radius:18px; padding:24px; border:1px solid #F1F5F9; box-shadow:0 4px 16px rgba(0,0,0,0.04); height:100%;"><p style="font-size:11px; font-weight:800; color:{c}; text-transform:uppercase; letter-spacing:0.1em; margin:0 0 12px 0;">✅ {t("who_is_eligible")}</p><ul style="font-size:13px; color:#334155; font-weight:500; padding-left:18px; margin:0; line-height:1.6;">{elig_html}</ul></div>', unsafe_allow_html=True)
             with r2:
-                steps_html = "".join([f'<li style="margin-bottom:10px; line-height:1.5;"><span style="font-weight:700; color:{c};">Step {i+1}:</span> {s}</li>' for i, s in enumerate(page_data['steps'])])
-                st.markdown(f"""
-                <div style="background:white; border-radius:18px; padding:24px; border:1px solid #F1F5F9; box-shadow:0 4px 16px rgba(0,0,0,0.04); height:100%;">
-                    <p style="font-size:11px; font-weight:800; color:{c}; text-transform:uppercase; letter-spacing:0.1em; margin:0 0 12px 0;">📋 How to Apply</p>
-                    <ol style="font-size:13px; color:#334155; font-weight:500; padding-left:18px; margin:0; line-height:1.6; list-style:none;">
-                        {steps_html}
-                    </ol>
-                </div>
-                """, unsafe_allow_html=True)
-
+                steps_html = "".join([f'<li style="margin-bottom:10px; line-height:1.5;"><span style="font-weight:700; color:{c};">{t("step_label")} {i+1}:</span> {s}</li>' for i, s in enumerate(page_data['steps'])])
+                st.markdown(f'<div style="background:white; border-radius:18px; padding:24px; border:1px solid #F1F5F9; box-shadow:0 4px 16px rgba(0,0,0,0.04); height:100%;"><p style="font-size:11px; font-weight:800; color:{c}; text-transform:uppercase; letter-spacing:0.1em; margin:0 0 12px 0;">📋 {t("how_to_apply")}</p><ol style="font-size:13px; color:#334155; font-weight:500; padding-left:18px; margin:0; line-height:1.6; list-style:none;">{steps_html}</ol></div>', unsafe_allow_html=True)
             with r3:
                 docs_html = "".join([f'<li style="margin-bottom:8px; line-height:1.5;">📄 {d}</li>' for d in page_data['docs']])
-                st.markdown(f"""
-                <div style="background:white; border-radius:18px; padding:24px; border:1px solid #F1F5F9; box-shadow:0 4px 16px rgba(0,0,0,0.04); height:100%;">
-                    <p style="font-size:11px; font-weight:800; color:{c}; text-transform:uppercase; letter-spacing:0.1em; margin:0 0 12px 0;">📁 Documents Needed</p>
-                    <ul style="font-size:13px; color:#334155; font-weight:500; padding-left:4px; margin:0; list-style:none;">
-                        {docs_html}
-                    </ul>
-                </div>
-                """, unsafe_allow_html=True)
+                st.markdown(f'<div style="background:white; border-radius:18px; padding:24px; border:1px solid #F1F5F9; box-shadow:0 4px 16px rgba(0,0,0,0.04); height:100%;"><p style="font-size:11px; font-weight:800; color:{c}; text-transform:uppercase; letter-spacing:0.1em; margin:0 0 12px 0;">📁 {t("docs_needed")}</p><ul style="font-size:13px; color:#334155; font-weight:500; padding-left:4px; margin:0; list-style:none;">{docs_html}</ul></div>', unsafe_allow_html=True)
 
-            # Helpline + Official Link footer — with clickable tel: and portal links
             import re as _re
             _phone_match = _re.search(r'[\d]{4}[-\s]?[\d]{3}[-\s]?[\d]{4}|[\d]{10,}', str(page_data['helpline']))
             _phone_raw = _phone_match.group(0).replace('-','').replace(' ','') if _phone_match else ''
             _tel_link = f"tel:{_phone_raw}" if _phone_raw else "#"
-
-            st.markdown(f"""
+            st.markdown(f'''
             <div style="display:flex; gap:16px; margin-top:20px; flex-wrap:wrap;">
                 <a href="{_tel_link}" style="flex:1; min-width:220px; text-decoration:none; display:block;">
-                <div style="background:{bg}; border:2px solid {c}44; border-radius:14px; padding:18px 22px;
-                     display:flex; align-items:center; gap:14px; cursor:pointer; transition:all 0.3s;
-                     box-shadow:0 4px 16px rgba(0,0,0,0.04);"
-                     onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 24px rgba(0,0,0,0.12)';"
-                     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 16px rgba(0,0,0,0.04)';">
-                    <div style="width:48px; height:48px; border-radius:12px; background:{c}22; flex-shrink:0;
-                         display:flex; align-items:center; justify-content:center; font-size:24px;">📞</div>
+                <div style="background:{bg}; border:2px solid {c}44; border-radius:14px; padding:18px 22px; display:flex; align-items:center; gap:14px; cursor:pointer;" onmouseover="this.style.transform='translateY(-2px)';" onmouseout="this.style.transform='translateY(0)';">
+                    <div style="width:48px; height:48px; border-radius:12px; background:{c}22; display:flex; align-items:center; justify-content:center; font-size:24px;">📞</div>
                     <div>
-                        <p style="font-size:10px; font-weight:800; color:{c}; text-transform:uppercase;
-                           letter-spacing:0.08em; margin:0 0 2px 0;">📲 Tap to Call — Free</p>
+                        <p style="font-size:10px; font-weight:800; color:{c}; text-transform:uppercase; margin:0 0 2px 0;">📲 {t("call_btn")}</p>
                         <p style="font-size:14px; font-weight:800; color:#0F172A; margin:0;">{page_data['helpline']}</p>
-                        <p style="font-size:11px; color:#64748B; margin:2px 0 0 0; font-weight:500;">Click to dial instantly</p>
+                        <p style="font-size:11px; color:#64748B; margin:2px 0 0 0;">{t("dial_instantly")}</p>
                     </div>
                 </div>
                 </a>
-                <div style="flex:1; min-width:220px; background:{c}; border-radius:14px; padding:18px 22px;
-                     display:flex; align-items:center; justify-content:space-between; gap:14px;">
+                <div style="flex:1; min-width:220px; background:{c}; border-radius:14px; padding:18px 22px; display:flex; align-items:center; justify-content:space-between;">
                     <div>
-                        <p style="font-size:10px; font-weight:800; color:rgba(255,255,255,0.7);
-                           text-transform:uppercase; margin:0 0 3px 0;">🌐 Official Portal</p>
-                        <p style="font-size:13px; font-weight:700; color:white; margin:0;">
-                            {str(page_data['url']).replace('https://','').replace('http://','').rstrip('/')}
-                        </p>
-                        <p style="font-size:11px; color:rgba(255,255,255,0.6); margin:3px 0 0 0;">
-                            Opens official government website
-                        </p>
+                        <p style="font-size:10px; font-weight:800; color:rgba(255,255,255,0.7); text-transform:uppercase; margin:0 0 3px 0;">🌐 {t("official_portal")}</p>
+                        <p style="font-size:13px; font-weight:700; color:white; margin:0;">{str(page_data['url']).replace('https://','').replace('http://','')[:30]}...</p>
+                        <p style="font-size:11px; color:rgba(255,255,255,0.6); margin:3px 0 0 0;">{t("portal_note")}</p>
                     </div>
-                    <a href="{page_data['url']}" target="_blank"
-                       style="background:white; color:{c}; font-size:12px; font-weight:800;
-                              padding:12px 22px; border-radius:10px; text-decoration:none;
-                              white-space:nowrap; box-shadow:0 4px 12px rgba(0,0,0,0.15);"
-                       onmouseover="this.style.transform='scale(1.05)';"
-                       onmouseout="this.style.transform='scale(1)';">
-                        Open ↗
-                    </a>
+                    <a href="{page_data['url']}" target="_blank" style="background:white; color:{c}; font-size:12px; font-weight:800; padding:12px 22px; border-radius:10px; text-decoration:none;">{t("open_btn")}</a>
                 </div>
             </div>
-            """, unsafe_allow_html=True)
-
+            ''', unsafe_allow_html=True)
     else:
-        # ----------------------------------------------------------------
-        # GRID (card listing) VIEW
-        # ----------------------------------------------------------------
-        st.markdown("""<div style="background:white; border-radius:24px; padding:32px 24px; text-align:center; border:1px solid #F1F5F9; box-shadow:0 10px 30px rgba(0,0,0,0.02); margin-bottom:32px;">
-    <div style="width:48px; height:48px; background:#F8FAFC; border-radius:14px; display:flex; align-items:center; justify-content:center; margin:0 auto 16px auto;">
-    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#2563EB" stroke-width="2.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
-    </div>
-    <h1 style="font-size:24px; font-weight:950; color:#1E293B; letter-spacing:-0.03em; margin:0;">Resource Portal</h1>
-    <p style="font-size:13px; color:#64748B; margin-top:8px;">Click any card below to view full scheme details, eligibility, and how to apply.</p>
-    </div>""", unsafe_allow_html=True)
-
-    st.markdown('<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:16px;">', unsafe_allow_html=True)
-    for s in support_items:
-        st.markdown(f"""
-        <div class="sp-card" style="background:white; border-radius:16px; padding:24px; border:1px solid #F1F5F9;
-             transition:all 0.3s ease; box-shadow:0 5px 20px rgba(0,0,0,0.02); position:relative; overflow:hidden; cursor:pointer;"
-             onmouseover="this.style.borderColor='{s['color']}'; this.style.transform='translateY(-3px)'; this.style.boxShadow='0 12px 32px rgba(0,0,0,0.08)';"
-             onmouseout="this.style.borderColor='#F1F5F9'; this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 20px rgba(0,0,0,0.02)';">
-            <div style="position:absolute; top:0; left:0; width:100%; height:4px; background:{s['color']};"></div>
-            <div style="display:flex; align-items:flex-start; gap:14px;">
-                <div style="width:44px; height:44px; min-width:44px; border-radius:12px; background:{s['bg']};
-                     display:flex; align-items:center; justify-content:center; font-size:22px;">{s['icon']}</div>
-                <div style="flex:1;">
+        # GRID VIEW
+        st.markdown(f'<div style="background:white; border-radius:24px; padding:32px 24px; text-align:center; border:1px solid #F1F5F9; margin-bottom:32px;"><h1 style="font-size:24px; font-weight:950; color:#1E293B; margin:0;">{t("resource_portal_title")}</h1><p style="font-size:13px; color:#64748B; margin-top:8px;">{t("resource_portal_sub")}</p></div>', unsafe_allow_html=True)
+        
+        cols = st.columns(3)
+        for i, s in enumerate(support_items):
+            with cols[i % 3]:
+                st.markdown(f'''
+                <div style="background:white; border-radius:16px; padding:24px; border:1px solid #F1F5F9; border-top:4px solid {s['color']}; margin-bottom:16px; height:220px;">
+                    <div style="width:44px; height:44px; border-radius:12px; background:{s['bg']}; display:flex; align-items:center; justify-content:center; font-size:22px; margin-bottom:12px;">{s['icon']}</div>
                     <h3 style="font-size:14px; font-weight:800; color:#1E293B; margin:0 0 5px 0;">{s['title']}</h3>
                     <p style="font-size:12px; color:#64748B; margin:0 0 12px 0; line-height:1.5;">{s['desc']}</p>
-                    <div style="display:inline-flex; align-items:center; gap:5px; font-weight:700; font-size:11px; color:{s['color']};">
-                        {s['action']} <span>→</span>
-                    </div>
-                </div>
-            </div>
-        </div>""", unsafe_allow_html=True)
-        # Actual clickable Streamlit button overlaid — we use a hidden button trick
-        if st.button(f"Open {s['title']}", key=f"sp_{s['key']}", use_container_width=True):
-            st.session_state.support_page = s['key']
-            st.rerun()
+                    <div style="font-size:11px; font-weight:700; color:{s['color']}; display:flex; align-items:center; gap:4px;">{s['action']} →</div>
+                </div>''', unsafe_allow_html=True)
+                if st.button(t("view_details"), key=f"btn_{s['key']}", use_container_width=True):
+                    st.session_state.support_page = s['key']
+                    st.rerun()
 
-        st.markdown('</div>', unsafe_allow_html=True)
-
-        # FAQ Section
-        st.markdown('<br><h2 style="font-size:22px; font-weight:900; color:#1E293B; margin-bottom:24px;">Frequently Asked Questions</h2>', unsafe_allow_html=True)
-
-        faqs = [
-        ("How do I register my mandi on the eNAM portal?", "Visit enam.gov.in, click 'Register', and your mandi management committee must apply through the State Agriculture Department. eNAM integration takes 2–4 weeks."),
-        ("What is the current subsidy rate for solar irrigation pumps?", "Under Gujarat's Surya Shakti Kisan Yojana (SKY), farmers get up to 90% subsidy on solar pumps. Visit agri.gujarat.gov.in for current rates."),
-        ("How do I claim Fasal Bima if my crop is damaged?", "Report crop damage within 72 hours on the PMFBY app or call 1800-200-7710. A local inspector will verify and submit the claim. Settlement happens within 2 months."),
-        ("Can I apply for KCC without land ownership?", "Yes! Tenant farmers, sharecroppers, and oral lessees are also eligible for Kisan Credit Card with a joint liability group or guarantee from the landowner."),
-    ]
+        st.markdown(f'<br><h2 style="font-size:22px; font-weight:900; color:#1E293B; margin-bottom:24px;">{t("faq_title")}</h2>', unsafe_allow_html=True)
+        faqs = [(t("faq_1_q"), t("faq_1_a")), (t("faq_2_q"), t("faq_2_a")), (t("faq_3_q"), t("faq_3_a")), (t("faq_4_q"), t("faq_4_a"))]
         for q, a in faqs:
             with st.expander(q):
                 st.markdown(f'<p style="font-size:13px; color:#475569; line-height:1.7;">{a}</p>', unsafe_allow_html=True)
 
-# ---------------------------------------------------------
-# MAIN ROUTING EXECUTION
-# ---------------------------------------------------------
+
 if page_clean == t("nav_dashboard"):
     render_dashboard()
 elif page_clean == t("nav_market"):
@@ -1988,7 +2145,3 @@ elif page_clean == t("nav_loss"):
 elif page_clean == t("nav_support"):
     render_support_info()
 
-# Footer
-st.markdown("---")
-footer_text = "Built with ❤️ for Vadodara Farmers | Empowering Agri-Intelligence 2026" if st.session_state.lang == 'en' else "વડોદરાના ખેડૂતો માટે ❤️ સાથે બનાવેલ | કૃષિ-બુદ્ધિ સશક્તિકરણ 2026"
-st.markdown(f"<div style='text-align: center; color: #94A3B8; font-size: 0.8rem;'>{footer_text}</div>", unsafe_allow_html=True)
