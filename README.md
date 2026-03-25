@@ -61,4 +61,4 @@ npm run dev
 The application is built for accessibility. All components are dynamically translated using the centralized translation engine, ensuring that vital farming data is accessible in regional languages.
 
 ---
-Built with ❤️ for Farmers Excellence | © 2026 FarmPrice
+Streamlit link :-https://farmprice.streamlit.app/
